@@ -10,4 +10,3 @@ paperurl: 'https://tengingit.github.io/files/PISTv1p2__cam_ready_noakn_.pdf'
 citation: 'T. Huang, B.-B. Jia, M.-L. Zhang. &quot;Deep multi-dimensional classification with pairwise dimension-specific features.&quot; In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence</i>, Jeju, South Korea, 2024, 4183-4191.'
 ---
 
-# The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
