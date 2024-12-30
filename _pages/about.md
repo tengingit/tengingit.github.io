@@ -10,4 +10,4 @@ I'm a third year Ph.D Candidate, advised by Prof.[Min-Ling ZHANG](https://palm.s
 
 You can find my CV here: [Teng's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-Codes for published paper are all available at [Github.](https://github.com/tengingit) 
+Codes for published papers are all available at [Github.](https://github.com/tengingit) 
