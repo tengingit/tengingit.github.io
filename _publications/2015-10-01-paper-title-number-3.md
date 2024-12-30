@@ -7,8 +7,8 @@ permalink: /publication/2015-10-01-paper-title-number-3
 date: 2015-10-01
 venue: 'IJCAI-23'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://tengingit.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'http://tengingit.github.io/files/SSMDC_v1p0_camera_ready__noakn.pdf'
+citation: 'T. Huang, B.-B. Jia, M.-L. Zhang. &quot;Progressive label propagation for semi-supervised multi-dimensional classification.&quot; In: <i>Proceedings of the 32nd International Joint Conference on Artificial Intelligence</i>, Macau, China, 2023, 3821-3829.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+# The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
