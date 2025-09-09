@@ -31,10 +31,11 @@ author:
   email            : "tengh@seu.edu.cn" 
 
   # Academic websites
-  arxiv            : "https://dblp.org/pid/141/3868-3.html"
+  arxiv            : # URL
   googlescholar    : "https://scholar.google.com/citations?user=taH4W4YAAAAJ&hl=en"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1210-3862"
   openreview       : "https://openreview.net/profile?id=~Teng_Huang3"
+  dblp             : "https://dblp.org/pid/141/3868-3.html"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
