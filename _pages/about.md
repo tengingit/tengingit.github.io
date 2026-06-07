@@ -10,6 +10,6 @@ I'm a fourth year Ph.D Candidate, supervised by Prof.[Min-Ling ZHANG](https://pa
 
 Now I am pursuing my study in Center for Frontier AI Research (CFAR), ASTAR, Singapore as a visiting PhD student for one year.
 
-You can find my CV here: [Teng's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Teng's Curriculum Vitae](../assets/CV_2026.pdf).
 
 Codes for published papers are all available at [Github.](https://github.com/tengingit) 
